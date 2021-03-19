@@ -1,3 +1,5 @@
-# Get Started with ghcr.io as Conatiner Registry
+# Get Started with ghcr.io as Container Registry
 
-docker pull ghcr.io/klips-project/helloworld:latest
+See https://github.com/orgs/klips-project/packages/container/package/ghcr-ci-getstarted 
+
+docker pull ghcr.io/klips-project/ghcr-ci-getstarted:latest
