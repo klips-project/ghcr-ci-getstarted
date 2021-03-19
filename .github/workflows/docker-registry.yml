@@ -3,10 +3,10 @@ name: Test successful push to docker registry
 on:
   push:
     branches:
-      - master
+      - main
   pull_request:
     branches:
-      - master
+      - main
 jobs:
   push-docker-registry:
     runs-on: ubuntu-latest
